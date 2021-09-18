@@ -9,4 +9,4 @@ The web page I built advertises a mobile app which helps users record and share 
 A landing page is a vital tool in marketing a product these days, and the goal will be to entice potential customers into using the product. 
 
 ## Screenshots
-![HTML redline mock](./redline mock.png)
+![HTML redline mock](./redline%20mock.png)
